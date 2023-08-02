@@ -1,3 +1,25 @@
+## Install （@zhaoxhg/react-native-touch-id）
+
+```shell
+npm i --save @zhaoxhg/react-native-touch-id
+```
+
+or
+
+```shell
+yarn add @zhaoxhg/react-native-touch-id
+```
+
+<0.6.0 react-native link react-native-http-cache
+
+import TouchID from "@zhaoxhg/react-native-touch-id";
+
+以上为使用该forks的全部步骤。
+
+===========================================================================
+
+以下为原文：
+
 # React Native Touch ID
 
 [![react-native version](https://img.shields.io/badge/react--native-0.57-green.svg?style=flat-square)](https://github.com/facebook/react-native/releases)
