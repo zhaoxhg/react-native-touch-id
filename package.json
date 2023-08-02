@@ -25,6 +25,9 @@
     "authenticate",
     "mobile"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "author": "",
   "license": "ISC",
   "bugs": {
