@@ -10,7 +10,7 @@ or
 yarn add @zhaoxhg/react-native-touch-id
 ```
 
-<0.6.0 react-native link react-native-http-cache
+<0.6.0 react-native link react-native-touch-id
 
 import TouchID from "@zhaoxhg/react-native-touch-id";
 
