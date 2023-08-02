@@ -1,5 +1,5 @@
 {
-  "name": "react-native-touch-id",
+  "name": "@zhaoxhg/react-native-touch-id",
   "version": "4.4.1",
   "description": "React Native authentication with the native Touch ID popup.",
   "scripts": {
